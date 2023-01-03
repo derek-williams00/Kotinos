@@ -1,0 +1,22 @@
+{
+  "name": "kotinos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derek-williams00/Kotinos.git"
+  },
+  "author": "Derek Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derek-williams00/Kotinos/issues"
+  },
+  "homepage": "https://github.com/derek-williams00/Kotinos#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.5"
+  }
+}
